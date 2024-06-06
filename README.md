@@ -15,7 +15,7 @@ This repository contains , html file for Portfolio page, index.html and style.cs
 <h2>Viewing HTML Files</h2>
 <h5>4. Open index.html:</h5>
    <ul>
-     <li> 1.Inside the chosen folder (e-commerce or recipe), find the index.html file.</li>
+     <li> 1.Find the index.html file.</li>
       <li>2.Right-click on index.html.</li>
    </ul>
 <h5>5. Select Live Server:</h5>
